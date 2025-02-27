@@ -20,3 +20,6 @@ Esta parte es para usar git Fetch
 
 
 Cambios desde DevEditor de Github
+
+
+Presiona <kbd>W</kbd> para ir hacia arriba, presiona <kbd>S</kbd> para ir hacia abajo y <kbd>A</kbd> para ir hacia la izquierda y <kbd>D</kbd> para ir hacia la derecha 
